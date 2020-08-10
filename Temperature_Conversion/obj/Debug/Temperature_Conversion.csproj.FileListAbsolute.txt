@@ -1,0 +1,10 @@
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.exe.config
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.exe
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\bin\Debug\Temperature_Conversion.pdb
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.csprojAssemblyReference.cache
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.Properties.Resources.resources
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.csproj.GenerateResource.cache
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.exe
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.pdb
+C:\Users\Xtina\RiderProjects\Temperature_Conversion\Temperature_Conversion\obj\Debug\Temperature_Conversion.Form1.resources
