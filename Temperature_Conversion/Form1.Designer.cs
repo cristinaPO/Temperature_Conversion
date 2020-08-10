@@ -39,6 +39,9 @@
             this.btn_Celsius = new System.Windows.Forms.Button();
             this.btn_Kelvin = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // label1
+            // 
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label1.ForeColor = System.Drawing.Color.DarkTurquoise;
             this.label1.Location = new System.Drawing.Point(47, 63);
@@ -46,6 +49,9 @@
             this.label1.Size = new System.Drawing.Size(148, 33);
             this.label1.TabIndex = 0;
             this.label1.Text = "Fahrenheit";
+            // 
+            // label2
+            // 
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label2.ForeColor = System.Drawing.Color.DarkTurquoise;
             this.label2.Location = new System.Drawing.Point(83, 124);
@@ -53,6 +59,9 @@
             this.label2.Size = new System.Drawing.Size(99, 43);
             this.label2.TabIndex = 1;
             this.label2.Text = "Celsius";
+            // 
+            // label3
+            // 
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.label3.ForeColor = System.Drawing.Color.DarkTurquoise;
             this.label3.Location = new System.Drawing.Point(89, 178);
@@ -60,18 +69,30 @@
             this.label3.Size = new System.Drawing.Size(93, 38);
             this.label3.TabIndex = 2;
             this.label3.Text = "Kelvin";
+            // 
+            // txt_Fahrenheit
+            // 
             this.txt_Fahrenheit.Location = new System.Drawing.Point(201, 70);
             this.txt_Fahrenheit.Name = "txt_Fahrenheit";
             this.txt_Fahrenheit.Size = new System.Drawing.Size(170, 22);
             this.txt_Fahrenheit.TabIndex = 3;
+            // 
+            // txt_Celsius
+            // 
             this.txt_Celsius.Location = new System.Drawing.Point(201, 131);
             this.txt_Celsius.Name = "txt_Celsius";
             this.txt_Celsius.Size = new System.Drawing.Size(169, 22);
             this.txt_Celsius.TabIndex = 4;
+            // 
+            // txt_Kelvin
+            // 
             this.txt_Kelvin.Location = new System.Drawing.Point(201, 185);
             this.txt_Kelvin.Name = "txt_Kelvin";
             this.txt_Kelvin.Size = new System.Drawing.Size(170, 22);
             this.txt_Kelvin.TabIndex = 5;
+            // 
+            // btn_Fahrenheit
+            // 
             this.btn_Fahrenheit.Location = new System.Drawing.Point(414, 67);
             this.btn_Fahrenheit.Name = "btn_Fahrenheit";
             this.btn_Fahrenheit.Size = new System.Drawing.Size(134, 29);
@@ -79,6 +100,9 @@
             this.btn_Fahrenheit.Text = "Convert";
             this.btn_Fahrenheit.UseVisualStyleBackColor = true;
             this.btn_Fahrenheit.Click += new System.EventHandler(this.btn_Fahrenheit_Click);
+            // 
+            // btn_Celsius
+            // 
             this.btn_Celsius.Location = new System.Drawing.Point(414, 124);
             this.btn_Celsius.Name = "btn_Celsius";
             this.btn_Celsius.Size = new System.Drawing.Size(134, 29);
@@ -86,6 +110,9 @@
             this.btn_Celsius.Text = "Convert";
             this.btn_Celsius.UseVisualStyleBackColor = true;
             this.btn_Celsius.Click += new System.EventHandler(this.btn_Celsius_Click);
+            // 
+            // btn_Kelvin
+            // 
             this.btn_Kelvin.Location = new System.Drawing.Point(414, 178);
             this.btn_Kelvin.Name = "btn_Kelvin";
             this.btn_Kelvin.Size = new System.Drawing.Size(134, 29);
@@ -93,6 +120,9 @@
             this.btn_Kelvin.Text = "Convert";
             this.btn_Kelvin.UseVisualStyleBackColor = true;
             this.btn_Kelvin.Click += new System.EventHandler(this.btn_Kelvin_Click);
+            // 
+            // Form1
+            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 460);
